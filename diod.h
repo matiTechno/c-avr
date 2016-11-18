@@ -39,6 +39,7 @@ protected:
 		*dataDirReg |= (1<<pin);
 }
 
+private:
 	const uint8_t pin;
 	volatile uint8_t* const dataReg;
 	volatile uint8_t* const dataDirReg;
