@@ -1,10 +1,3 @@
-/*
- * diod.h
- *
- *  Created on: Nov 18, 2016
- *      Author: matitechno
- */
-
 #ifndef DIOD_H_
 #define DIOD_H_
 
